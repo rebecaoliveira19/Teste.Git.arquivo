@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testando nova alteção
+=======
+"Hello Wordl" Digitando dentro do codigo, teste.
+>>>>>>> 97edea738933f0359a42fa08204d8b657ee54813
